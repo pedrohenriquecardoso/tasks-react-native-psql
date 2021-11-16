@@ -1,0 +1,4 @@
+DB_AUTH=your auth here
+DB_PROJECT=your db name here
+DB_USER=your db user here
+DB_PASS=your db password here
